@@ -1,7 +1,7 @@
 import os
 
 # Chemin du dossier contenant les images
-image_folder = "C:/Users/alexo/Documents/DATALAKE/Pictures/Pokemon/GEN xxx"
+image_folder = "C:/Users/alexo/Documents/GitHub/DATALAKE/Pictures/Pokemon/GEN 3"
 
 # Parcourir les fichiers d'images dans le dossier
 for filename in os.listdir(image_folder):
